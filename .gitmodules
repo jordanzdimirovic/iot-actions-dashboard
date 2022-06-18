@@ -1,0 +1,3 @@
+[submodule "ezsockets"]
+	path = ezsockets
+	url = https://github.com/jordanzdimirovic/ezsockets
